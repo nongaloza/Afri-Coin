@@ -12,6 +12,7 @@ gem 'bootstrap-sass', '~> 3.3.1'
 # Use font awesome libraries for icons
 gem 'font-awesome-sass', '~> 4.2.0'
 
+# Use paperclip to load profile images
 gem 'paperclip', '~> 4.2.1'
 
 
